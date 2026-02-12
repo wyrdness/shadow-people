@@ -1,0 +1,995 @@
+{
+  "category": "ENTITY_SPIRIT",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/shadow-people",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "shadow-people",
+    "name": "Shadow People",
+    "aliases": [
+      {
+        "name": "Shadow Figures",
+        "language": "English",
+        "meaning": "Dark silhouettes resembling human forms"
+      },
+      {
+        "name": "Shadow Beings",
+        "language": "English",
+        "meaning": "Entity-like shadows"
+      },
+      {
+        "name": "Hat Man",
+        "language": "English",
+        "region": "Global",
+        "meaning": "Specific shadow figure wearing wide-brimmed hat or fedora"
+      },
+      {
+        "name": "Shadow Ghosts",
+        "language": "English",
+        "meaning": "Ghost-like shadow manifestations"
+      },
+      {
+        "name": "Dark Watchers",
+        "language": "English",
+        "region": "California",
+        "meaning": "Historical shadow figures in mountains"
+      }
+    ],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Shadow Entities",
+    "tags": [
+      "shadow",
+      "entity",
+      "spirit",
+      "apparition",
+      "bedroom-encounter",
+      "peripheral-vision",
+      "sleep-paralysis",
+      "hat-man",
+      "modern-phenomenon",
+      "internet-age"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "Dark humanoid silhouettes typically observed in peripheral vision, often associated with feelings of dread and frequently reported during sleep paralysis episodes. A widely reported modern phenomenon particularly prevalent in online paranormal communities.",
+      "full": "Shadow People are dark, featureless humanoid silhouettes reported worldwide, particularly since the 1990s with the rise of internet-based paranormal discussion. Witnesses describe these entities as distinctly darker than surrounding shadows, often appearing solid black or semi-transparent, typically 6-8 feet tall, and lacking facial features or details. The phenomenon is strongly associated with peripheral vision sightings, bedroom encounters during sleep or near-sleep states, and an overwhelming sense of dread or malevolence. The 'Hat Man' variant—a shadow figure wearing a wide-brimmed hat or fedora—is reported with striking consistency across cultures and geography. While paranormal explanations range from ghosts to interdimensional beings, scientific research points to sleep paralysis, hypnagogia, and neurological factors as probable explanations for many experiences."
+    },
+    "etymology": {
+      "origin": "Modern English descriptive term popularized in 1990s through internet forums and paranormal discussion groups",
+      "meaning": "Named for their appearance as dark, shadow-like human silhouettes",
+      "first_use": "1990s (widespread use); historical precedents exist but without unified terminology"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Shadow Entity",
+      "subtype": "Humanoid Apparition",
+      "variant": "Multiple (Hat Man, Hooded Figure, Featureless)"
+    },
+    "related_phenomena": [
+      {
+        "id": "ghosts",
+        "name": "Ghosts",
+        "relationship": "related",
+        "description": "Some consider shadow people a type of ghost or spirit"
+      },
+      {
+        "id": "sleep-paralysis",
+        "name": "Sleep Paralysis",
+        "relationship": "strongly_associated",
+        "description": "Frequently reported during sleep paralysis episodes"
+      },
+      {
+        "id": "demons",
+        "name": "Demons",
+        "relationship": "related",
+        "description": "Some interpretations consider shadow people demonic entities"
+      },
+      {
+        "id": "hypnagogia",
+        "name": "Hypnagogic Hallucinations",
+        "relationship": "associated",
+        "description": "Medical explanation for many shadow people experiences"
+      }
+    ],
+    "shadow_types": {
+      "description": "Classification of shadow people by appearance and behavior",
+      "types": [
+        {
+          "type": "Hat Man",
+          "description": "Shadow figure wearing distinctive wide-brimmed hat or fedora",
+          "characteristics": [
+            "Tall (6-8 feet)",
+            "Wears hat (fedora, wide-brimmed, or top hat)",
+            "Sometimes appears in long coat",
+            "Frequently reported during sleep paralysis",
+            "Often described as malevolent or watching"
+          ],
+          "prevalence": "Most commonly reported specific variant",
+          "global_reports": true
+        },
+        {
+          "type": "Hooded Figure",
+          "description": "Shadow person wearing hooded cloak or robe",
+          "characteristics": [
+            "Hooded or cloaked appearance",
+            "Often described as monk-like",
+            "Variable height",
+            "Sometimes associated with death omens"
+          ],
+          "prevalence": "Common"
+        },
+        {
+          "type": "Featureless Humanoid",
+          "description": "Basic human-shaped shadow without distinguishing features",
+          "characteristics": [
+            "Human silhouette",
+            "No facial features",
+            "No clothing details",
+            "Variable height",
+            "Most generic form"
+          ],
+          "prevalence": "Very common"
+        },
+        {
+          "type": "Red-Eyed Shadow",
+          "description": "Shadow figure with visible red eyes",
+          "characteristics": [
+            "Glowing or reflective red eyes",
+            "Otherwise featureless",
+            "Often reported as particularly menacing",
+            "Less common than eyeless variants"
+          ],
+          "prevalence": "Occasional"
+        },
+        {
+          "type": "Child-Sized Shadow",
+          "description": "Smaller shadow figures, child-height",
+          "characteristics": [
+            "3-4 feet tall",
+            "Child-like proportions",
+            "Often playful or curious behavior reported",
+            "Sometimes appears in groups"
+          ],
+          "prevalence": "Less common"
+        }
+      ]
+    }
+  },
+
+  "characteristics": {
+    "physical": {
+      "height": {
+        "min": 1.5,
+        "max": 2.4,
+        "unit": "meters",
+        "notes": "Hat Man typically reported taller (6-8 feet); child variants smaller",
+        "confidence": "medium"
+      },
+      "coloration": [
+        "solid black (most common)",
+        "dark gray",
+        "semi-transparent shadow",
+        "darker than surrounding shadows"
+      ],
+      "features": [
+        {
+          "feature": "Featureless face",
+          "description": "No visible facial features in most reports",
+          "frequency": "always",
+          "exceptions": "Red eyes reported occasionally"
+        },
+        {
+          "feature": "Human silhouette",
+          "description": "Distinctly humanoid shape",
+          "frequency": "always"
+        },
+        {
+          "feature": "Hat (Hat Man variant)",
+          "description": "Wide-brimmed hat, fedora, or top hat",
+          "frequency": "common",
+          "specific_to": "Hat Man variant"
+        },
+        {
+          "feature": "Two-dimensional appearance",
+          "description": "Often described as flat or lacking depth",
+          "frequency": "common"
+        },
+        {
+          "feature": "Solid darkness",
+          "description": "Darker than natural shadows, light-absorbing quality",
+          "frequency": "common"
+        },
+        {
+          "feature": "No visible legs/feet",
+          "description": "Sometimes appears to float or fade at bottom",
+          "frequency": "occasional"
+        }
+      ],
+      "morphology": "Shadow people are typically described as dark, two-dimensional or three-dimensional humanoid silhouettes completely lacking facial features or surface details. They appear as areas of darkness darker than ambient shadows, sometimes described as 'holes in reality' or 'living shadows.' Most reports describe them as featureless black forms, though occasional reports include glowing red eyes."
+    },
+    "manifestation_types": [
+      {
+        "type": "Peripheral vision sighting",
+        "description": "Seen in corner of eye, disappears when looked at directly",
+        "frequency": "very_common",
+        "evidence_level": "widely_reported"
+      },
+      {
+        "type": "Direct observation",
+        "description": "Fully visible when looking directly at entity",
+        "frequency": "common",
+        "evidence_level": "reported"
+      },
+      {
+        "type": "Sleep paralysis appearance",
+        "description": "Manifests during sleep paralysis episode",
+        "frequency": "very_common",
+        "evidence_level": "documented",
+        "notes": "Strong medical correlation"
+      },
+      {
+        "type": "Bedroom encounter",
+        "description": "Appears in bedroom while witness awake or semi-awake",
+        "frequency": "very_common",
+        "evidence_level": "widely_reported"
+      },
+      {
+        "type": "Passing through walls",
+        "description": "Moves through solid objects",
+        "frequency": "occasional",
+        "evidence_level": "reported"
+      }
+    ],
+    "abilities": [
+      {
+        "ability": "Rapid movement",
+        "description": "Moves quickly, often described as darting or gliding",
+        "frequency": "common",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Disappearance when noticed",
+        "description": "Vanishes when directly observed",
+        "frequency": "very_common",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Watching/observation",
+        "description": "Appears to watch or observe witnesses",
+        "frequency": "common",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Inducing fear/dread",
+        "description": "Witnesses report overwhelming sense of malevolence or dread",
+        "frequency": "very_common",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Passing through solid matter",
+        "description": "Moving through walls, doors, and other obstacles",
+        "frequency": "occasional",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Causing paralysis",
+        "description": "Witnesses report inability to move during encounters",
+        "frequency": "common",
+        "evidence_level": "reported",
+        "notes": "Likely related to sleep paralysis"
+      }
+    ],
+    "behavior": {
+      "activity_period": "primarily_nocturnal",
+      "disposition": "neutral_to_malevolent",
+      "social_structure": "usually_solitary",
+      "common_locations": [
+        "bedrooms",
+        "hallways",
+        "doorways",
+        "dark corners",
+        "peripheral vision range"
+      ],
+      "patterns": [
+        "Appears in peripheral vision",
+        "Flees or vanishes when directly observed",
+        "Watching behavior without interaction",
+        "Associated with sleep states",
+        "Induces fear or unease in witnesses",
+        "No communication attempts reported"
+      ],
+      "interaction": "Typically does not interact with witnesses; observational behavior; rare reports of aggressive actions"
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Global phenomenon with consistent reports worldwide. Particularly prevalent in internet-connected societies. No specific geographic concentration identified.",
+      "continents": [
+        "North America",
+        "South America",
+        "Europe",
+        "Asia",
+        "Australia",
+        "Africa"
+      ],
+      "countries": ["Global - reported in virtually all countries"],
+      "regions": ["Universal - no specific regional concentration"]
+    },
+    "report_patterns": {
+      "description": "Reports increased dramatically with internet accessibility",
+      "factors": [
+        "Internet forums and discussion boards (1990s-2000s)",
+        "Social media sharing (2000s-present)",
+        "Paranormal television programming",
+        "Sleep paralysis awareness campaigns"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "Ancient",
+        "circa": true,
+        "source": "Historical shadow figure accounts exist in various cultures, but unified 'shadow people' concept is modern"
+      },
+      "modern_emergence": {
+        "date": "1990s",
+        "description": "Term 'shadow people' popularized through internet forums and Coast to Coast AM radio show"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1990s-2000s",
+          "description": "Initial wave of reports via internet forums and paranormal websites"
+        },
+        {
+          "period": "2010s-present",
+          "description": "Widespread reporting through social media and sleep paralysis awareness"
+        }
+      ],
+      "seasonal_patterns": "No clear seasonal pattern identified; bedroom encounters occur year-round"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Shadow figure archetypes exist in various cultural traditions worldwide, but the modern 'shadow people' phenomenon emerged as a distinct category in the 1990s internet age.",
+      "earliest_accounts": "Shadow figure reports exist throughout history in various cultural contexts. The Chumash people of California reported 'Dark Watchers' in mountains. Medieval European accounts mention dark figures. However, the unified 'shadow people' concept is modern.",
+      "folklore_connections": "Connected to cultural traditions of dark spirits, death omens, and shadow entities across various cultures, but modern phenomenon has distinct characteristics."
+    },
+    "timeline": [
+      {
+        "date": "Ancient-1900s",
+        "event": "Historical shadow figure reports",
+        "significance": "Various cultures report dark figures, but without unified terminology or characteristics",
+        "source": "Various folkloric traditions"
+      },
+      {
+        "date": "1950s-1980s",
+        "event": "Pre-internet isolated reports",
+        "significance": "Sporadic reports exist but lack collective awareness or terminology",
+        "source": "Paranormal literature"
+      },
+      {
+        "date": "1990s",
+        "event": "Internet forum emergence",
+        "significance": "Term 'shadow people' gains currency as experiencers share reports online",
+        "source": "Early internet forums, Art Bell's Coast to Coast AM"
+      },
+      {
+        "date": "2001",
+        "event": "Thunder Bay TV station report",
+        "significance": "Canadian TV station reports viewer accounts of shadow people, generates media attention",
+        "source": "News coverage"
+      },
+      {
+        "date": "2009",
+        "event": "Documentary 'The Shadow People'",
+        "significance": "Documentary increases mainstream awareness of phenomenon",
+        "source": "Film release"
+      },
+      {
+        "date": "2010s",
+        "event": "Sleep paralysis connection recognized",
+        "significance": "Medical community and experiencers increasingly recognize sleep paralysis link",
+        "source": "Medical research and online discussions"
+      },
+      {
+        "date": "2013",
+        "event": "Horror film 'Shadow People'",
+        "significance": "Phenomenon enters popular culture horror genre",
+        "source": "Film release"
+      },
+      {
+        "date": "2015-present",
+        "event": "Social media proliferation",
+        "significance": "Rapid sharing of experiences via Reddit, Facebook, YouTube",
+        "source": "Social media platforms"
+      }
+    ],
+    "modern_era": "Shadow people have become one of the most discussed paranormal phenomena of the internet age. Online communities share remarkably consistent descriptions, particularly of the Hat Man variant. Medical professionals increasingly link reports to sleep paralysis and hypnagogic hallucinations, while paranormal researchers debate consciousness-independent existence. The phenomenon represents intersection of traditional folklore, modern paranormal belief, sleep science, and internet-based collective experience."
+  },
+
+  "sightings": {
+    "statistics": {
+      "total_documented": 50000,
+      "notes": "Estimates based on online reports; actual number likely much higher due to underreporting",
+      "verified": 0,
+      "disputed": 48000,
+      "attributed_to_sleep_paralysis": 15000,
+      "date_range": {
+        "earliest": "Ancient (shadow figure traditions)",
+        "latest": "Present",
+        "modern_reports": "1990s-present"
+      }
+    },
+    "notable": [
+      {
+        "id": "shadow-people-hat-man-pattern",
+        "name": "Hat Man Global Pattern",
+        "date": {
+          "value": "1990s-present",
+          "precision": "ongoing"
+        },
+        "location": {
+          "description": "Global reports",
+          "country": "Multiple",
+          "region": "Worldwide"
+        },
+        "witnesses": {
+          "count": 10000,
+          "types": ["General public", "Sleep paralysis experiencers"],
+          "credibility_factors": ["Consistent cross-cultural descriptions", "Independent reports with similar details"]
+        },
+        "description": "Thousands of independent reports worldwide describe nearly identical entity: tall shadow figure (6-8 feet) wearing distinctive wide-brimmed hat or fedora, often with long coat. Reports are remarkably consistent across cultures and geography, with witnesses frequently unaware of other similar accounts until researching online. Figure typically appears during sleep paralysis or in bedrooms at night, standing and watching without communication. Overwhelming sense of malevolence commonly reported.",
+        "conditions": {
+          "time_of_day": "Night/early morning",
+          "typical_setting": "Bedroom encounters",
+          "consciousness_state": "Often during sleep paralysis or hypnagogic state"
+        },
+        "evidence": [
+          "Thousands of consistent witness testimonies",
+          "Cross-cultural consistency",
+          "Independent corroboration of specific details"
+        ],
+        "credibility": {
+          "rating": "disputed",
+          "factors": [
+            "Extremely consistent descriptions across cultures",
+            "Strong correlation with sleep paralysis",
+            "No physical evidence",
+            "Psychological explanations available",
+            "Internet exposure may influence reports"
+          ],
+          "notes": "Pattern consistency is remarkable but likely explained by universal sleep paralysis imagery and cultural transmission via internet"
+        },
+        "sources": [
+          "Online forums and discussion boards",
+          "Sleep paralysis research",
+          "Paranormal databases"
+        ],
+        "featured": true
+      },
+      {
+        "id": "shadow-people-peripheral-vision",
+        "name": "Peripheral Vision Encounters",
+        "date": {
+          "value": "Ongoing",
+          "precision": "continuous"
+        },
+        "location": {
+          "description": "Global, various settings",
+          "region": "Worldwide"
+        },
+        "witnesses": {
+          "count": 20000,
+          "types": ["General public", "Home residents", "Workers"],
+          "credibility_factors": ["Consistent description patterns", "Multiple independent reports"]
+        },
+        "description": "Large category of reports involving dark humanoid figures seen in peripheral vision that vanish when looked at directly. Witnesses describe seeing movement or presence at edge of vision, turning to look, and seeing shadow figure that immediately disappears or moves rapidly away. Common in homes, offices, and other familiar environments. Often accompanied by feeling of being watched. Distinguished from natural shadows by darker appearance, human form, and apparent movement.",
+        "conditions": {
+          "time_of_day": "Variable, but more common in evening/night",
+          "visibility": "Peripheral vision primarily",
+          "typical_setting": "Indoor environments, familiar locations"
+        },
+        "evidence": [
+          "Widespread consistent reports",
+          "Psychological research on peripheral vision"
+        ],
+        "credibility": {
+          "rating": "low",
+          "factors": [
+            "Well-established psychological explanations",
+            "Peripheral vision susceptible to misinterpretation",
+            "Pareidolia (pattern recognition)",
+            "No physical evidence"
+          ],
+          "notes": "Likely explained by normal visual system artifacts, pareidolia, and expectation"
+        },
+        "sources": [
+          "Paranormal forums",
+          "Vision research",
+          "Psychology literature"
+        ],
+        "featured": true
+      },
+      {
+        "id": "shadow-people-bedroom-watchers",
+        "name": "Bedroom Watcher Encounters",
+        "date": {
+          "value": "Ongoing",
+          "precision": "continuous"
+        },
+        "location": {
+          "description": "Private residences, bedrooms",
+          "region": "Worldwide"
+        },
+        "witnesses": {
+          "count": 15000,
+          "types": ["General public", "Children and adults"],
+          "credibility_factors": ["Consistent behavior patterns", "Strong sleep paralysis correlation"]
+        },
+        "description": "Reports of shadow figures standing in bedrooms, often at foot of bed or in doorway, appearing to watch sleeping or awakening individuals. Witnesses frequently report inability to move, overwhelming fear, and sense of malevolent presence. Entity typically disappears when witness fully awakens or regains movement. Strong association with sleep paralysis episodes documented.",
+        "conditions": {
+          "time_of_day": "Night",
+          "consciousness_state": "Awakening from sleep, sleep paralysis, hypnopompic state",
+          "duration": "Seconds to minutes"
+        },
+        "evidence": [
+          "Thousands of witness reports",
+          "Sleep paralysis research documentation",
+          "Consistent symptom patterns"
+        ],
+        "credibility": {
+          "rating": "low",
+          "factors": [
+            "Strong sleep paralysis correlation",
+            "Well-documented hypnopompic hallucination patterns",
+            "Presence sensations common in sleep paralysis",
+            "No evidence when fully conscious"
+          ],
+          "notes": "Medical consensus attributes these to sleep paralysis hallucinations, a well-understood phenomenon"
+        },
+        "sources": [
+          "Sleep paralysis research",
+          "Online experiencer accounts",
+          "Medical literature"
+        ],
+        "featured": true
+      }
+    ],
+    "database_path": "./sightings/"
+  },
+
+  "evidence": {
+    "physical": [],
+    "photographic": [
+      {
+        "id": "shadow-people-photo-evidence",
+        "type": "photographs",
+        "name": "Various alleged shadow people photographs",
+        "description": "Numerous photographs claiming to show shadow figures",
+        "status": "disputed",
+        "analysis": "Most explained as camera artifacts, lens flares, motion blur, pareidolia in shadows, or deliberate fabrication. No photographs provide conclusive evidence of anomalous entities.",
+        "notes": "Photography particularly problematic for shadow people claims due to nature of shadow and light artifacts in digital imaging"
+      }
+    ],
+    "video": [
+      {
+        "id": "shadow-people-video-evidence",
+        "type": "video",
+        "name": "Various alleged shadow people videos",
+        "description": "Video recordings claiming to show shadow figures",
+        "status": "disputed",
+        "analysis": "Most explained as natural shadows, camera artifacts, insects near lens, or hoaxes. No videos provide convincing evidence of anomalous entities."
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "shadow-people-online-accounts",
+        "type": "witness testimony",
+        "name": "Online experiencer accounts",
+        "description": "Tens of thousands of first-person accounts shared via forums, Reddit, social media",
+        "status": "documented",
+        "analysis": "Accounts show remarkable consistency in descriptions, particularly for Hat Man variant. However, consistency may result from cultural transmission via internet rather than objective phenomenon. Strong correlation with sleep paralysis in documented cases.",
+        "notes": "Represents largest body of evidence; consistency notable but explanation via cultural transmission plausible"
+      }
+    ],
+    "medical_documentation": [
+      {
+        "id": "shadow-people-sleep-paralysis",
+        "type": "medical research",
+        "name": "Sleep Paralysis and Hypnagogic Hallucinations",
+        "description": "Medical literature documenting shadow figure hallucinations during sleep paralysis",
+        "status": "verified",
+        "analysis": "Peer-reviewed research confirms shadow figure hallucinations are common during sleep paralysis episodes. Neurological basis well-established.",
+        "source": "Multiple peer-reviewed studies",
+        "significance": "Provides scientific explanation for significant percentage of shadow people reports"
+      }
+    ]
+  },
+
+  "theories": {
+    "paranormal": [
+      {
+        "name": "Interdimensional Beings",
+        "description": "Shadow people are entities from parallel dimensions occasionally visible in our reality",
+        "proponents": ["Paranormal researchers", "Experiencers"],
+        "evidence_cited": [
+          "Sudden appearance and disappearance",
+          "Ability to pass through walls",
+          "Consistent global reports",
+          "Intelligent behavior patterns"
+        ],
+        "counterarguments": [
+          "No physical evidence",
+          "Better explained by known phenomena",
+          "Unfalsifiable hypothesis"
+        ]
+      },
+      {
+        "name": "Ghosts/Spirits",
+        "description": "Shadow people are spirits of deceased individuals manifesting in shadow form",
+        "proponents": ["Ghost researchers", "Paranormal investigators"],
+        "evidence_cited": [
+          "Reported in locations with history",
+          "Behavior similar to ghosts",
+          "Watching/observational behavior"
+        ],
+        "counterarguments": [
+          "Lack ghost-typical characteristics",
+          "No communication or interaction",
+          "More common in sleep states than haunted locations"
+        ]
+      },
+      {
+        "name": "Demonic Entities",
+        "description": "Shadow people are demonic beings or negative entities",
+        "proponents": ["Religious interpreters", "Some experiencers"],
+        "evidence_cited": [
+          "Sense of malevolence",
+          "Fear response",
+          "Association with sleep paralysis (historical demon connection)"
+        ],
+        "counterarguments": [
+          "Based on subjective interpretation",
+          "Sleep paralysis historically associated with demons (Old Hag, incubus) due to lack of medical understanding",
+          "No objective evidence of supernatural origin"
+        ]
+      },
+      {
+        "name": "Thought-Forms/Tulpas",
+        "description": "Collective belief and fear create shadow people as thought-forms or egregores",
+        "proponents": ["Esoteric researchers", "Consciousness theorists"],
+        "evidence_cited": [
+          "Increased reports correlate with internet discussion",
+          "Consistent imagery suggests collective unconscious",
+          "Modern emergence fits collective creation timeline"
+        ],
+        "counterarguments": [
+          "Thought-form existence unproven",
+          "Simpler explanations available",
+          "Cultural transmission sufficient to explain consistency"
+        ]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Sleep Paralysis Hallucinations",
+        "description": "Shadow people experiences are hypnagogic/hypnopompic hallucinations occurring during sleep paralysis",
+        "proponents": ["Sleep researchers", "Neurologists", "Psychologists"],
+        "evidence_cited": [
+          "Strong correlation between shadow people reports and sleep paralysis",
+          "Shadow figure hallucinations documented in sleep paralysis research",
+          "Presence sensations, fear, and paralysis are characteristic sleep paralysis symptoms",
+          "Hat Man archetype fits sleep paralysis intruder hallucination patterns",
+          "Neurological mechanisms well-understood"
+        ],
+        "mechanism": "During sleep paralysis, brainstem blocks motor signals while consciousness returns. Threat detection systems remain active, often producing hallucination of intruder presence. Visual cortex generates imagery consistent with sense of threat, frequently manifesting as dark humanoid figure.",
+        "research": "Extensively documented in peer-reviewed sleep research literature",
+        "strength": "Very strong - explains majority of bedroom/sleep-related encounters"
+      },
+      {
+        "name": "Hypnagogia and Hypnopompia",
+        "description": "Transitional states between waking and sleeping produce vivid shadow figure hallucinations",
+        "proponents": ["Sleep researchers", "Neurologists"],
+        "evidence_cited": [
+          "Shadow people reports cluster during sleep transitions",
+          "Hypnagogic hallucinations are common and well-documented",
+          "Visual hallucinations in these states often include human figures",
+          "Consciousness is demonstrably altered during these transitions"
+        ],
+        "mechanism": "During transition between sleep and waking, visual processing can misfire, creating vivid hallucinations. Threat detection systems may generate humanoid forms. Partial consciousness creates realistic experience.",
+        "strength": "Strong - explains sleep-adjacent encounters"
+      },
+      {
+        "name": "Peripheral Vision Artifacts and Pareidolia",
+        "description": "Peripheral vision encounters result from visual system characteristics and pattern recognition",
+        "proponents": ["Vision researchers", "Psychologists", "Skeptics"],
+        "evidence_cited": [
+          "Peripheral vision has lower resolution and higher motion sensitivity",
+          "Peripheral vision optimized for threat detection, may generate false positives",
+          "Pareidolia causes recognition of human forms in ambiguous stimuli",
+          "Shadow figure disappears when central vision engaged (where detail perception occurs)"
+        ],
+        "mechanism": "Peripheral vision detects motion and rough shapes but lacks detail. Brain fills in details, often interpreting ambiguous dark shapes as human forms (evolutionarily advantageous for threat detection). When central vision examines location, actual stimulus (shadow, object) doesn't match expectation, and 'entity' seems to disappear.",
+        "research": "Vision research extensively documents peripheral vision characteristics",
+        "strength": "Very strong - explains peripheral vision sightings"
+      },
+      {
+        "name": "Cultural Transmission and Expectation",
+        "description": "Internet-based sharing of shadow people accounts creates expectation, influencing interpretation of ambiguous experiences",
+        "proponents": ["Psychologists", "Sociologists", "Skeptical researchers"],
+        "evidence_cited": [
+          "Reports increased dramatically with internet accessibility",
+          "Hat Man consistency suggests cultural transmission rather than independent phenomenon",
+          "Experiencers often research online after event, retroactively fitting experience to pattern",
+          "Expectation powerfully influences perception and memory"
+        ],
+        "mechanism": "Cultural transmission via internet creates shared narrative framework. Individuals experiencing ambiguous phenomena (shadows, sleep paralysis, peripheral vision) interpret through this framework. Memory reconstruction further aligns experience with cultural narrative.",
+        "strength": "Strong - explains cross-cultural consistency and modern emergence"
+      },
+      {
+        "name": "Neurological Factors",
+        "description": "Various neurological conditions and factors can produce shadow figure perceptions",
+        "proponents": ["Neurologists", "Medical researchers"],
+        "evidence_cited": [
+          "Charles Bonnet syndrome produces complex visual hallucinations including human figures",
+          "Parkinson's disease and Lewy body dementia associated with shadow figure hallucinations",
+          "Migraine aura can include human figure hallucinations",
+          "Temporal lobe activity associated with presence sensations"
+        ],
+        "mechanism": "Various neurological conditions affect visual processing or generate spurious neural activity interpreted as sensory input. Shadow figures may result from disrupted visual processing or internally generated perceptual experiences.",
+        "strength": "Strong for specific cases - not universal explanation"
+      }
+    ],
+    "psychological": [
+      {
+        "name": "Fear Response and Threat Detection",
+        "description": "Human threat detection systems evolved to identify predators/threats, generating false positives interpreted as shadow people",
+        "proponents": ["Evolutionary psychologists", "Cognitive scientists"],
+        "evidence_cited": [
+          "Better to mistake shadow for threat than miss actual threat (evolutionary advantage)",
+          "Fear centers active in shadow people encounters",
+          "Human forms prioritized in visual processing",
+          "Darkness amplifies threat perception"
+        ],
+        "mechanism": "Hyperactive threat detection was evolutionarily advantageous. Modern humans retain sensitive systems that occasionally generate false positives, particularly in ambiguous low-light conditions. Brain preferentially interprets ambiguous stimuli as potential threats.",
+        "strength": "Strong as contributing factor"
+      },
+      {
+        "name": "Isolation and Stress Effects",
+        "description": "Isolation, stress, and sleep deprivation increase susceptibility to perceptual anomalies",
+        "proponents": ["Psychologists", "Researchers"],
+        "evidence_cited": [
+          "Sleep deprivation known to cause hallucinations",
+          "Stress affects perception",
+          "Isolation increases suggestibility",
+          "Nighttime bedroom experiences often occur during stressful periods"
+        ],
+        "mechanism": "Psychological and physiological stress affects brain function, including perception and interpretation of sensory input. Sleep deprivation particularly disrupts normal perceptual processes.",
+        "strength": "Moderate - contributing factor for some cases"
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Internet-Age Folklore",
+        "description": "Shadow people represent modern folklore created and propagated via internet, similar to creepypasta",
+        "proponents": ["Folklorists", "Skeptics", "Media researchers"],
+        "evidence_cited": [
+          "Phenomenon emerged with internet forums",
+          "Similar to documented internet-based urban legends",
+          "Sharing mechanisms identical to creepypasta propagation",
+          "No pre-internet documentation with same characteristics"
+        ],
+        "notes": "Doesn't invalidate individual experiences but suggests cultural framework shapes interpretation"
+      },
+      {
+        "name": "Misinterpretation of Normal Phenomena",
+        "description": "Shadow people reports result from misinterpreting normal shadows, objects, and visual artifacts",
+        "proponents": ["Skeptics", "Critical thinkers"],
+        "evidence_cited": [
+          "Most reports lack corroborating evidence",
+          "Natural shadows in peripheral vision easily misinterpreted",
+          "Clothing on hooks, furniture, etc. commonly mistaken in dark",
+          "Expectation influences interpretation"
+        ],
+        "strength": "Strong for many peripheral vision cases"
+      },
+      {
+        "name": "Attention-Seeking and Fabrication",
+        "description": "Some reports are fabricated for attention, particularly on social media",
+        "proponents": ["Skeptics"],
+        "evidence_cited": [
+          "Online platforms incentivize dramatic stories",
+          "Impossible to verify most personal accounts",
+          "Some documented fabrications"
+        ],
+        "notes": "Likely applies to minority of reports; doesn't explain sincere accounts"
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Chumash Dark Watchers (California)",
+        "European shadow spirit traditions",
+        "Various cultural dark entity traditions"
+      ],
+      "stories": [
+        "Hat Man encounters",
+        "Bedroom watcher accounts",
+        "Peripheral vision sightings"
+      ],
+      "beliefs": "Modern belief in shadow people represents convergence of ancient shadow figure traditions with internet-age collective experience. Many experiencers believe shadow people are real entities (ghosts, demons, interdimensional beings), while others interpret through sleep paralysis framework."
+    },
+    "internet_culture": {
+      "significance": "Shadow people represent quintessential internet-age phenomenon",
+      "platforms": [
+        "Reddit (r/Paranormal, r/Humanoidencounters, r/SleepParalysis)",
+        "YouTube paranormal channels",
+        "Facebook groups",
+        "Paranormal forums",
+        "Twitter discussions",
+        "TikTok experiences"
+      ],
+      "impact": "Rapid information sharing creates collective awareness and potentially shapes interpretation of experiences",
+      "sensitivity_note": "Many experiencers find accounts deeply frightening; approach with respect for genuine experiences while maintaining critical perspective"
+    },
+    "popular_culture": {
+      "literature": [
+        "Various creepypasta stories",
+        "\"The Hat Man: True Stories of Evil Encounters\" by Heidi Hollis",
+        "Paranormal investigation accounts"
+      ],
+      "film_tv": [
+        "\"Shadow People\" (2013 horror film)",
+        "\"The Nightmare\" (2015 documentary on sleep paralysis)",
+        "Various paranormal TV show episodes"
+      ],
+      "games": [
+        "Horror games featuring shadow entities"
+      ],
+      "other": [
+        "Paranormal podcasts",
+        "YouTube documentaries",
+        "Social media discussions"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Heidi Hollis",
+        "affiliation": "Independent paranormal researcher",
+        "contribution": "Documented Hat Man encounters; authored book on shadow people",
+        "period": "2000s-present",
+        "perspective": "Paranormal interpretation"
+      },
+      {
+        "name": "Sleep Paralysis Research Community",
+        "affiliation": "Various academic institutions",
+        "contribution": "Documented shadow figure hallucinations in sleep paralysis; neurological mechanisms",
+        "period": "1990s-present",
+        "perspective": "Scientific/medical"
+      },
+      {
+        "name": "Dr. Baland Jalal",
+        "affiliation": "Cambridge University, Harvard Medical School",
+        "contribution": "Research on sleep paralysis hallucinations including shadow figures",
+        "period": "2010s-present",
+        "perspective": "Scientific/medical"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Various paranormal investigation groups",
+        "focus": "Documenting shadow people encounters"
+      },
+      {
+        "name": "Sleep research institutions",
+        "focus": "Scientific study of sleep paralysis and associated hallucinations"
+      }
+    ],
+    "ongoing_studies": "Sleep paralysis research continues to document shadow figure experiences. Medical community working to increase awareness of sleep paralysis to reduce distress. Paranormal community continues collecting accounts and debating explanations."
+  },
+
+  "medical_perspectives": {
+    "sleep_paralysis": {
+      "description": "Temporary inability to move or speak while falling asleep or waking up",
+      "prevalence": "Approximately 8% of general population; higher in students and psychiatric patients",
+      "symptoms": [
+        "Inability to move",
+        "Awareness of surroundings",
+        "Sense of presence (common)",
+        "Visual hallucinations (common)",
+        "Auditory hallucinations",
+        "Pressure on chest",
+        "Difficulty breathing sensation",
+        "Intense fear"
+      ],
+      "shadow_people_connection": "Shadow figure hallucinations are among most commonly reported sleep paralysis experiences. 'Intruder' hallucination type characteristically includes dark humanoid figure, often matching Hat Man description.",
+      "treatment": "Sleep hygiene improvement, stress reduction, sleep position adjustment, addressing underlying sleep disorders",
+      "awareness": "Increasing awareness that shadow people experiences are often sleep paralysis reduces distress"
+    },
+    "hypnagogic_hallucinations": {
+      "description": "Vivid hallucinations occurring during transition from wakefulness to sleep",
+      "prevalence": "Common; experienced by significant percentage of population",
+      "characteristics": [
+        "Visual hallucinations",
+        "Can include human figures",
+        "Feel real and vivid",
+        "Brief duration"
+      ],
+      "shadow_people_connection": "May explain some shadow people sightings occurring during sleep transitions"
+    },
+    "recommendations": {
+      "for_experiencers": [
+        "Recognize sleep paralysis connection if encounter occurs during sleep transitions",
+        "Improve sleep hygiene",
+        "Reduce stress",
+        "Avoid sleep deprivation",
+        "Sleep on side rather than back (reduces sleep paralysis)",
+        "Consult sleep specialist if frequent occurrences",
+        "Understand experience is non-harmful (reduces fear)"
+      ],
+      "for_researchers": [
+        "Document consciousness state during encounters",
+        "Note correlation with sleep",
+        "Consider medical explanations",
+        "Respect experiencer distress while providing scientific context"
+      ]
+    }
+  },
+
+  "sources": [
+    {
+      "id": "jalal-2016",
+      "type": "journal_article",
+      "title": "The 'Old Hag' Syndrome and Sleep Paralysis",
+      "authors": ["Baland Jalal", "Devon Hinton"],
+      "publication": "Journal of Sleep Research",
+      "date": "2016"
+    },
+    {
+      "id": "sharpless-2011",
+      "type": "journal_article",
+      "title": "Lifetime prevalence of sleep paralysis",
+      "authors": ["Brian Sharpless", "Jacques Barber"],
+      "publication": "Sleep Medicine Reviews",
+      "date": "2011"
+    },
+    {
+      "id": "hollis-2014",
+      "type": "book",
+      "title": "The Hat Man: True Stories of Evil Encounters",
+      "authors": ["Heidi Hollis"],
+      "date": "2014"
+    },
+    {
+      "id": "ascher-svanum-2009",
+      "type": "documentary",
+      "title": "The Shadow People",
+      "date": "2009"
+    }
+  ]
+}
